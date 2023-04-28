@@ -16,7 +16,7 @@ JavaScript
 
 Installation:
 
-Clone the repository: git clone https://github.com/your-username/simon-game.git
+Clone the repository: git clone https://github.com/Saheb2002/Simon-Game.git
 Open the index.html file in your preferred browser.
 
 Contributing:
