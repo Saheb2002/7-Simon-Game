@@ -4,13 +4,13 @@ This is a digital version of the classic Simon game, where players must repeat a
 To play the game, simply press any key and watch as the pattern is shown on the screen. Then, click on the buttons in the correct order to repeat the pattern. The game will continue until you make a mistake.
 
 ## Live Demo
-Check out the live demo https://saheb2002.github.io/Simon-Game/
+Check out the live demo https://saheb2002.github.io/5-Simon-Game/
 
 ## Technologies Used
 HTML, CSS, JavaScript
 
 ## Installation
-Clone the repository git clone https://github.com/Saheb2002/Simon-Game.git
+Clone the repository git clone https://github.com/Saheb2002/5-Simon-Game.git
 Open the index.html file in your preferred browser.
 
 ## Contributing
