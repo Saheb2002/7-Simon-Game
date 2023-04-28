@@ -1,4 +1,4 @@
-Simon Game:
+# Simon Game:
 
 This is a digital version of the classic Simon game, where players must repeat a sequence of colored buttons in the correct order. The game features four different colors.
 
